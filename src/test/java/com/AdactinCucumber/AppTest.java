@@ -1,13 +1,13 @@
 package com.AdactinCucumber;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Assert;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 public class AppTest {
     
   @Test
   public void shouldAnswerWithTrue() {
-    assertTrue(true);
+    Assert.assertTrue(true);
   }
 }

@@ -19,7 +19,7 @@
   </properties>
 
   <dependencies>
-    <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
+   
 <dependency>
     <groupId>info.cukes</groupId>
     <artifactId>cucumber-junit</artifactId>
